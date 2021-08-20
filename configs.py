@@ -37,7 +37,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 📢 **Updates Channel:** [Discovery Projects](https://t.me/STTamilSerials)
 """
 	ABOUT_ST_TEXT = f"""
-🧑🏻‍💻 **Developer:** @Sentamil_Official
+🧑🏻‍💻 **Developer:** @STtamilserials
 
 Developer is Super Noob. Just Learning from Official Docs. Please Donate the developer for Keeping the Service Alive.
 
